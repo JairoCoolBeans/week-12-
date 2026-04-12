@@ -24,6 +24,3 @@ document.addEventListener("DOMContentLoaded", () => {
   // FIXED: missing parenthesis
   console.log("Page loaded!");
 });
-  // FIXED: missing parenthesis
-  console.log("Page loaded!");
-});
