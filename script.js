@@ -13,14 +13,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
   toggleButton.addEventListener("click", () => {
     if (toggled) {
-      gallery.src = "assets/images/image1.jpg";
+      gallery.src = "assets/images/sonic looking up.png";
       toggled = false;
     } else {
-      gallery.src = "assets/images/image2.jpg"; // use a real image
+      gallery.src = "assets/images/sonics.jpg"; // image
       toggled = true;
     }
   });
 
+  // FIXED: missing parenthesis
+  console.log("Page loaded!");
+});
   // FIXED: missing parenthesis
   console.log("Page loaded!");
 });
