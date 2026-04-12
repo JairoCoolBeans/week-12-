@@ -9,3 +9,15 @@ border: 5px solid blackk; (black is misspelt)
 .hidden {
   display: non;  (none is misspelt) 
 }
+
+
+(for java script)
+
+
+bx.style.backgroundColor = "blue"; (Wrong variable name) 
+
+box.style.backgroundColor = "blue"; (this is the fix) 
+
+console.log("Page loaded!" (missing parenthesis)
+
+
