@@ -3,3 +3,9 @@ Failed to load resource: the server responded with a status script.js:1 of 404 (
 GET https://jairocoolbeans.github.io/week-12-/script.js week-12-/:38 net::ERR_ABORTED 404 (Not Found)
  
 background-colr: #f9f9f9; (color is misspelt) 
+
+border: 5px solid blackk; (black is misspelt)
+
+.hidden {
+  display: non;  (none is misspelt) 
+}
